@@ -1,6 +1,6 @@
 module github.com/fernferret/gpiotest
 
-go 1.15
+go 1.11
 
 require (
 	github.com/spf13/pflag v1.0.5
